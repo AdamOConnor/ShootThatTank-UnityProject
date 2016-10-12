@@ -1,0 +1,14 @@
+Panzerkampfwagen II Ausf. F = https://www.assetstore.unity3d.com/en/?gclid=CI_G6cmMocQCFUKL2wodwjkAxQ#!/content/7977
+concreteTexture = https://www.assetstore.unity3d.com/en/?gclid=CI_G6cmMocQCFUKL2wodwjkAxQ#!/content/12951
+fieldLaptop = https://www.assetstore.unity3d.com/en/?gclid=CI_G6cmMocQCFUKL2wodwjkAxQ#!/content/863
+roofTexture = https://www.assetstore.unity3d.com/en/?gclid=CI_G6cmMocQCFUKL2wodwjkAxQ#!/content/5844
+backgroundStartSound = https://www.youtube.com/watch?v=6tCn-k6eBeE
+fireCannonSound = http://soundbible.com/1388-M-82-Barrett-50-Cal.html
+reloadsound = http://soundbible.com/1961-Shotgun-Reload-Spas-12.html
+imac sound labtop = http://soundbible.com/1821-IMac-Startup-Chime.html
+tank running sound = http://soundbible.com/1816-Humvee.html
+steel-tag.jpg = http://photoshopgraphics.com/2011/06/free-steel-background/
+FARCRY-FONT = http://www.dafont.com/farcry.font
+grenade = http://soundbible.com/1367-Grenade.html
+GameOver = https://www.youtube.com/watch?v=vJaAy3jmEx8
+torturesound = http://soundbible.com/1791-Torture.html
